@@ -84,7 +84,7 @@ java -jar target/cfr-studio-1.0.0.jar "D:\path\to\application.jar"
 
 ## Screenshot Example
 
-![CFR Studio Screenshot](target/cfr-studio.png)
+![CFR Studio Screenshot](https://github.com/panzongqi/cfr-studio/blob/master/cfr-studio.png)
 
 > (Screenshot showing the Chinese interface; the language selector in the top-right corner is the language switching entry.)
 
