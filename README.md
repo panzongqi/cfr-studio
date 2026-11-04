@@ -84,7 +84,7 @@ java -jar target/cfr-studio-1.0.0.jar "D:\path\to\application.jar"
 
 ## 截图示例
 
-![CFR Studio Screenshot](target/cfr-studio.png)
+![CFR Studio Screenshot](https://github.com/panzongqi/cfr-studio/blob/master/cfr-studio.png)
 
 >（截图展示中文界面，右上角语言下拉框即为语言切换入口）
 
